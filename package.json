@@ -1,0 +1,17 @@
+{
+  "name": "hsf-roqlogic-context",
+  "version": "0.0.1",
+  "description": "yodata context for RoqLogic",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dave Duran <dave@yodata.io> (https://yodata.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "yodata-context": "^1.6.0"
+  },
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}

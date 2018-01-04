@@ -1,0 +1,79 @@
+{
+  "id": "https://1047522.ds.bhhsresource.com/inbox/b39851f6edb94898a5c6be947aa972ab",
+  "type": "Notification",
+  "instrument": "https://yodata.io/app/smarter-agent",
+  "target": "https://1047522.ds.bhhsresource.com/inbox/",
+  "timestamp": 1515017490897,
+  "object": {
+    "about": {
+      "referredBy": {
+        "@type": "RealEstateAgent"
+      },
+      "addressLocality": "Torrance",
+      "addressRegion": "CA",
+      "streetAddress": "23530 Hawthorne Bl., Ste. 100",
+      "location": {
+        "addressLocality": "Irvine",
+        "sameAs": "https://api.smarteranget.com/1.0/properties/2104019229",
+        "price": "829999.0",
+        "beds": "2.0",
+        "addressRegion": "CA",
+        "streetAddress": "3131 Michelson",
+        "baths": "2.0",
+        "postalCode": "92612",
+        "identifier": {
+          "propertyID": "2104019229",
+          "listingID": "PW17184367",
+          "listingKey": "168670133"
+        },
+        "@type": "Place"
+      },
+      "listingAgent": {
+        "@type": "RealEstateAgent"
+      },
+      "postalCode": "90505",
+      "listingOffice": {
+        "@type": "Organization"
+      }
+    },
+    "description": "A EMAIL lead from the PROPERTY",
+    "sameAs": "https://api.smarteragent.com/1.0/prospects/4767368976513765544",
+    "agent": {
+      "@type": "Person",
+      "givenName": "Tom",
+      "telephone": "8888888888",
+      "familyName": "Aranda",
+      "email": "tomaranda78@gmail.com",
+      "mobileCarrier": "T-MOBILE",
+      "platform": "Apple",
+      "deviceUsed": "Iphone",
+      "identifier": {
+        "deviceGUIDs": "f3330bc2-8d51-4fcc-aaae-b5c9fca90475",
+        "userID": "4540079612573596667",
+        "SAAppCode": "BHHS"
+      }
+    },
+    "instrument": "BHHS Mobile APP",
+    "startTime": "2018-01-03T22:11:08Z",
+    "@context": "http://schema.org",
+    "identifier": {
+      "recipientBrandingID": "11413101461000110106",
+      "actionID": "4767368976513765544",
+      "refCompanyID": "E776"
+    },
+    "recipient": {
+      "name": "Mike Fortes",
+      "sameAs": "https://api.smarteragent.com/1.0/agent/11413101461000110106",
+      "telephone": "3103730021",
+      "email": "mikefortes@yahoo.com",
+      "identifier": {
+        "thridPartyID": "1047522",
+        "SAAppCode": "BHHSMFORTES"
+      },
+      "@id": "https://1047522.ds.bhhsresource.com/profile/card#me",
+      "@type": "RealEstateAgent"
+    },
+    "@type": "AskAction",
+    "schema": "Schema.org 3.1"
+  }
+}

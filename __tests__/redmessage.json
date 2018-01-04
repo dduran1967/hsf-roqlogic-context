@@ -1,0 +1,65 @@
+{
+  "id":
+    "https://hsf-test.ds.bhhsresource.com/inbox/6d3ab5d9e0d24d6894df36117e774026",
+  "type": "Notification",
+  "instrument": "https://yodata.io/app/real-estate-digital",
+  "target": "https://hsf-test.ds.bhhsresource.com/inbox/",
+  "timestamp": 1514389201005,
+  "object": {
+    "contact": {
+      "identifier": [
+        "61ab3333-06cf-491e-b6aa-52fa0468fe1a",
+        {
+          "name": "BrokerOffice",
+          "value": ""
+        }
+      ],
+      "givenName": "dalila",
+      "additionalName": [null],
+      "familyName": "vidales",
+      "name": "dalila vidales",
+      "preferredContactMethod": "No Preference",
+      "preferredPhoneType": "No preference",
+      "address": [],
+      "contactPoint": [
+        {
+          "type": "ContactPoint",
+          "identifier": "2bf91faa-b1a5-4f47-a0eb-d35f5980c6cf",
+          "email": "semaforo706@hotmail.com",
+          "name": "primary",
+          "usedForApm": true,
+          "dateCreated": "2017-12-19T21:06:34.253",
+          "dateModified": "2017-12-19T21:06:34.253"
+        },
+        {
+          "type": "ContactPoint",
+          "identifier": "3d695f70-e881-4122-9f40-20a7275e7cd7",
+          "name": "Work",
+          "telephone": "956 4830641",
+          "dateCreated": "2017-12-19T21:06:34.237",
+          "dateModified": "2017-12-19T21:06:34.237"
+        }
+      ],
+      "comment": [
+        {
+          "type": "Comment",
+          "identifier": "f30138c5-ede9-4245-88f8-bc3b524747f3",
+          "author": "",
+          "value": "ClientRegistration: dalila vidales\n\n",
+          "dateCreated": "2017-12-19T21:06:34.38"
+        }
+      ]
+    },
+    "acceptedByMember": false,
+    "dateCreated": "2017-12-19T21:06:34.2",
+    "dateModified": "2017-12-22T08:00:48.59",
+    "recipient": [
+      {
+        "type": "Person",
+        "identifier": ["D96DD45283BF40FBB11D667A7FD27544", "380881"],
+        "id": "https://380881.ds.bhhsresource.com/profile/card#me"
+      }
+    ],
+    "type": "AssignAction"
+  }
+}
