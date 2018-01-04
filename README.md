@@ -1,6 +1,10 @@
 # hsf-roqlogic-context
 A custom context helper for RoqLogic
 
+## Installation
+```javascript
+$ npm install hsf-roqlogic-context
+```
 
 ## Usage
 ```javascript

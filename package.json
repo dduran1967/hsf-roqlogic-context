@@ -2,6 +2,7 @@
   "name": "hsf-roqlogic-context",
   "version": "0.0.1",
   "description": "yodata context for RoqLogic",
+  "repository": "https://github.com/dduran1967/hsf-roqlogic-context",
   "main": "index.js",
   "scripts": {
     "test": "jest"
